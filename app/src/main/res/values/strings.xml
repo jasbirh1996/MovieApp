@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="API_KEY">Enter your api key here..</string>
+    <string name="image_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="FavoriteMenuName">Favorite</string>
+    <string name="trailer_label">Trailer</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="reviewer_label">Reviewer: </string>
+    <string name="noTrailerAvailable">No trailer available</string>
+    <string name="noReviewAvailable">No review available</string>
+    <string name="favoriteButtonText">Mark as favorite</string>
+    <string name="unfavoriteButtonText">It\'s my favorite</string>
+    <string name="about">About this app</string>
+</resources>
+

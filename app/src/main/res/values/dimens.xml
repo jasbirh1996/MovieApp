@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movieName">40sp</dimen>
+    <dimen name="populatingLayoutPadding">20dp</dimen>
+</resources>
